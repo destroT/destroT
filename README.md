@@ -9,7 +9,10 @@ I am a full time analyst developer and I am currently working on customizations 
 * 🌍  I'm based in Italy
 * 🤝  I'm open to collaborating on python projects
 
+<br/>
+
 ### Languages and Tools:
+
 <div>
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -27,13 +30,13 @@ I am a full time analyst developer and I am currently working on customizations 
 </div>
 
 <br/>
-
-
+<br/>
 
 ### Connect with me:
 
 <a href="https://dev.to/destrot" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="https://dev.to/destrot" height="30" width="40" /></a>
 
+<br/>
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=destrot.destrot">
