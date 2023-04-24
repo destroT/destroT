@@ -32,7 +32,7 @@ I am a full time analyst developer and I am currently working on customizations 
 
 ### Connect with me:
 
-<a href="https://dev.to/https://dev.to/destrot" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="https://dev.to/destrot" height="30" width="40" /></a>
+<a href="https://dev.to/destrot" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="https://dev.to/destrot" height="30" width="40" /></a>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
